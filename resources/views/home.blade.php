@@ -151,6 +151,21 @@
                 height: 10rem;
             }
 
+            .mapouter{
+                position:relative;
+                text-align:right;
+            }
+
+            .gmap_canvas {
+                overflow:hidden;
+                background:none!important;
+            }
+
+            #gmap_canvas {
+                width: 100%;
+                height: 20rem;
+            }
+
             @media screen and (max-width: 900px) {
                 .j-title {
                     font-size: 3rem;
@@ -218,6 +233,26 @@
                     </div>
                 </div>
             </div>
+            <div class="j-location-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col text-center">
+                            <h3 class="mt-5 mb-3">Localização da festa</h3>
+                        </div>
+                    </div>
+                    <div class="j-location">
+                        <div class="row">
+                           <div class="col">
+                                <div class="mapouter">
+                                    <div class="gmap_canvas">
+                                        <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=Recanto%20Lopes%20-%20Corrego%20do%20Bamb%C3%BA,%20Caratinga%20-%20MG&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                                    </div>
+                                </div>
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="j-plans-section">
                 <div class="container">
                     <div class="row">
@@ -233,7 +268,7 @@
                                     <h5 class="card-title">Plano INDIVIDUAL</h5>
                                     <p class="card-text">Para 1 pessoa.</p>
                                     <a href="https://nubank.com.br/cobranca/CfsG92hjIJ1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                    <a href="https://mpago.la/1uZeri8" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                    <a href="https://mpago.la/2tbLWvo" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
                                 </div>
                             </div>
                             <div class="card col-12 col-md-4" style="width: 18rem;">
@@ -242,7 +277,7 @@
                                     <h5 class="card-title">Plano DUPLA</h5>
                                     <p class="card-text">Para 2 pessoas.</p>
                                     <a href="https://nubank.com.br/cobranca/eHl6iQoR621nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                    <a href="https://mpago.la/1JLa51t" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                    <a href="https://mpago.la/14FXCDi" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
                                 </div>
                             </div>
                             <div class="card col-12 col-md-4" style="width: 18rem;">
@@ -251,7 +286,7 @@
                                     <h5 class="card-title">Plano TRIO</h5>
                                     <p class="card-text">Para 3 pessoas.</p>
                                     <a href="https://nubank.com.br/cobranca/Apcf7kol2m1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                    <a href="https://mpago.la/1P23FVx" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                    <a href="https://mpago.la/2DRWAs8" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
                                 </div>
                             </div>
                         </div>
