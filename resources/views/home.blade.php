@@ -151,6 +151,28 @@
             .j-footer {
                 height: 10rem;
             }
+
+            @media screen and (max-width: 800px) {
+                .j-title {
+                    font-size: 3rem;
+                }
+
+                .j-timer-value {
+                    font-size: 2rem;
+                }
+
+                .j-timer-text {
+                    font-size: 1rem;
+                }
+
+                .j-message-image img {
+                    height: auto;
+                }
+
+                .j-plans-section {
+                    margin-top: 13rem;
+                }
+            }
         </style>
     </head>
     <body>
@@ -158,23 +180,25 @@
             <div class="j-header">
                 <span class="j-title">Natal em Família 2022</span>
             </div>
-            <div class="j-timer-section">
-                <span class="j-timer-text j-timer-label">Faltam</span>
-                <div>
-                    <span id="timer-day" class="j-timer-value">00</span>
-                    <span class="j-timer-text">dias</span>
-                </div>
-                <div>
-                    <span id="timer-hour" class="j-timer-value">00</span>
-                    <span class="j-timer-text">hor</span>
-                </div>
-                <div>
-                    <span id="timer-min" class="j-timer-value">00</span>
-                    <span class="j-timer-text">min</span>
-                </div>
-                <div>
-                    <span id="timer-sec" class="j-timer-value">00</span>
-                    <span class="j-timer-text">seg</span>
+            <div class="j-timer-section container-fluid">
+                <div class="row align-items-center">
+                    <span class="j-timer-text j-timer-label col-12 col-md-auto">Faltam</span>
+                    <div class="col col-md-auto text-center">
+                        <span id="timer-day" class="j-timer-value">00</span>
+                        <span class="j-timer-text">dias</span>
+                    </div>
+                    <div class="col col-md-auto text-center">
+                        <span id="timer-hour" class="j-timer-value">00</span>
+                        <span class="j-timer-text">hor</span>
+                    </div>
+                    <div class="col col-md-auto text-center">
+                        <span id="timer-min" class="j-timer-value">00</span>
+                        <span class="j-timer-text">min</span>
+                    </div>
+                    <div class="col col-md-auto text-center">
+                        <span id="timer-sec" class="j-timer-value">00</span>
+                        <span class="j-timer-text">seg</span>
+                    </div>
                 </div>
             </div>
             <div class="j-message-section container-fluid">
@@ -201,32 +225,34 @@
                             <h3 class="mt-5 mb-3">Garanta sua vaga</h3>
                         </div>
                     </div>
-                    <div class="j-plan-cards row">
-                        <div class="card col-12 col-md-4" style="width: 18rem;">
-                            <img src="/img/plano-1.jpg" class="card-img-top" alt="Plano 1">
-                            <div class="card-body">
-                                <h5 class="card-title">Plano INDIVIDUAL</h5>
-                                <p class="card-text">Para 1 pessoa.</p>
-                                <a href="https://nubank.com.br/cobranca/CfsG92hjIJ1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                <a href="https://mpago.la/1RkHRpP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                    <div class="j-plan-cards container">
+                        <div class="row justify-content-center">
+                            <div class="card col-12 col-md-4" style="width: 18rem;">
+                                <img src="/img/plano-1.jpg" class="card-img-top" alt="Plano 1">
+                                <div class="card-body">
+                                    <h5 class="card-title">Plano INDIVIDUAL</h5>
+                                    <p class="card-text">Para 1 pessoa.</p>
+                                    <a href="https://nubank.com.br/cobranca/CfsG92hjIJ1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
+                                    <a href="https://mpago.la/1RkHRpP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card col-12 col-md-4" style="width: 18rem;">
-                            <img src="/img/plano-2.jpg" class="card-img-top" alt="Plano 3">
-                            <div class="card-body">
-                                <h5 class="card-title">Plano DUPLA</h5>
-                                <p class="card-text">Para 2 pessoas.</p>
-                                <a href="https://nubank.com.br/cobranca/eHl6iQoR621nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                <a href="https://mpago.la/2WeJmWP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                            <div class="card col-12 col-md-4" style="width: 18rem;">
+                                <img src="/img/plano-2.jpg" class="card-img-top" alt="Plano 3">
+                                <div class="card-body">
+                                    <h5 class="card-title">Plano DUPLA</h5>
+                                    <p class="card-text">Para 2 pessoas.</p>
+                                    <a href="https://nubank.com.br/cobranca/eHl6iQoR621nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
+                                    <a href="https://mpago.la/2WeJmWP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card col-12 col-md-4" style="width: 18rem;">
-                            <img src="/img/plano-3.jpg" class="card-img-top" alt="Plano 3">
-                            <div class="card-body">
-                                <h5 class="card-title">Plano TRIO</h5>
-                                <p class="card-text">Para 3 pessoas.</p>
-                                <a href="https://nubank.com.br/cobranca/Apcf7kol2m1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                <a href="https://mpago.la/2WeJmWP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                            <div class="card col-12 col-md-4" style="width: 18rem;">
+                                <img src="/img/plano-3.jpg" class="card-img-top" alt="Plano 3">
+                                <div class="card-body">
+                                    <h5 class="card-title">Plano TRIO</h5>
+                                    <p class="card-text">Para 3 pessoas.</p>
+                                    <a href="https://nubank.com.br/cobranca/Apcf7kol2m1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
+                                    <a href="https://mpago.la/2WeJmWP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                </div>
                             </div>
                         </div>
                     </div>
