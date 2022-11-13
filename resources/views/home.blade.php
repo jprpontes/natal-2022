@@ -70,11 +70,10 @@
             }
 
             .j-message-section {
-                height: 30rem;
+                background-color: #87abfa;
             }
 
             .j-message {
-                height: 100%;
                 background-color: #e01932;
                 color: #FFF;
                 display: flex;
@@ -152,13 +151,14 @@
                 height: 10rem;
             }
 
-            @media screen and (max-width: 800px) {
+            @media screen and (max-width: 900px) {
                 .j-title {
                     font-size: 3rem;
                 }
 
                 .j-timer-value {
                     font-size: 2rem;
+                    display: block;
                 }
 
                 .j-timer-text {
@@ -168,17 +168,17 @@
                 .j-message-image img {
                     height: auto;
                 }
-
-                .j-plans-section {
-                    margin-top: 13rem;
-                }
             }
         </style>
     </head>
     <body>
         <div>
             <div class="j-header">
-                <span class="j-title">Natal em Família 2022</span>
+                <span class="j-title">
+                    Natal em Família 2022
+                    <br>
+                    <small>Dias 23, 24, 25</small>
+                </span>
             </div>
             <div class="j-timer-section container-fluid">
                 <div class="row align-items-center">
@@ -233,7 +233,7 @@
                                     <h5 class="card-title">Plano INDIVIDUAL</h5>
                                     <p class="card-text">Para 1 pessoa.</p>
                                     <a href="https://nubank.com.br/cobranca/CfsG92hjIJ1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                    <a href="https://mpago.la/1RkHRpP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                    <a href="https://mpago.la/1uZeri8" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
                                 </div>
                             </div>
                             <div class="card col-12 col-md-4" style="width: 18rem;">
@@ -242,7 +242,7 @@
                                     <h5 class="card-title">Plano DUPLA</h5>
                                     <p class="card-text">Para 2 pessoas.</p>
                                     <a href="https://nubank.com.br/cobranca/eHl6iQoR621nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                    <a href="https://mpago.la/2WeJmWP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                    <a href="https://mpago.la/1JLa51t" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
                                 </div>
                             </div>
                             <div class="card col-12 col-md-4" style="width: 18rem;">
@@ -251,7 +251,7 @@
                                     <h5 class="card-title">Plano TRIO</h5>
                                     <p class="card-text">Para 3 pessoas.</p>
                                     <a href="https://nubank.com.br/cobranca/Apcf7kol2m1nb489" class="btn btn-outline-success btn-lg mb-2"><i class="fa-brands fa-pix"></i><span> Pagar com pix</span></a>
-                                    <a href="https://mpago.la/2WeJmWP" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
+                                    <a href="https://mpago.la/1P23FVx" class="btn btn-outline-success btn-lg"><i class="fa-regular fa-credit-card"></i><span> Pagar com cartão</span></a>
                                 </div>
                             </div>
                         </div>
@@ -315,12 +315,32 @@
                             <span class="mb-2">Leo, Polly e família</span>
                         </div>
                         <div class="col-auto">
+                            <img src="/img/people/juh.jpg" class="img-thumbnail" alt="Juh">
+                            <span class="mb-2">Juju Balandia</span>
+                        </div>
+                        <div class="col-auto">
                             <img src="/img/people/wanderlei.jpg" class="img-thumbnail" alt="José Wanderley">
                             <span class="mb-2">José Wanderlei</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/marilene.jpg" class="img-thumbnail" alt="José Wanderley">
                             <span class="mb-2">Marilene</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/ana-paula.jpg" class="img-thumbnail" alt="Ana Paula">
+                            <span class="mb-2">Ana Paula</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/lucinho.jpg" class="img-thumbnail" alt="Lucinho">
+                            <span class="mb-2">Lucinho</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tio-lucio.jpg" class="img-thumbnail" alt="Tio Lúcio">
+                            <span class="mb-2">Tio Lúcio</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tia-neida.jpg" class="img-thumbnail" alt="Tia Neida">
+                            <span class="mb-2">Tia Neida</span>
                         </div>
                     </div>
                 </div>
