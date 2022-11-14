@@ -413,6 +413,10 @@
                             <img src="/img/people/rodrigao.jpg" class="img-thumbnail" alt="Rodrigão">
                             <span class="mb-2">Rodrigão</span>
                         </div>
+                        <div class="col-auto">
+                            <img src="/img/people/charles.jpeg" class="img-thumbnail" alt="Charles">
+                            <span class="mb-2">Chaos Xavier</span>
+                        </div>
                     </div>
                 </div>
             </div>
