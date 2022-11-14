@@ -297,7 +297,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col text-center">
-                            <h3 class="mt-5 mb-3">Quem já garantiu sua vaga</h3>
+                            <h3 class="mt-5 mb-3">Presenças confirmadas</h3>
                         </div>
                     </div>
                     <div class="j-people-cards row">
@@ -346,12 +346,24 @@
                             <span class="mb-2">Marcolino</span>
                         </div>
                         <div class="col-auto">
-                            <img src="/img/people/polly-familia.jpg" class="img-thumbnail" alt="Leo, Polly e família">
-                            <span class="mb-2">Leo, Polly e família</span>
+                            <img src="/img/people/polly.jpeg" class="img-thumbnail" alt="Polly">
+                            <span class="mb-2">Polly</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/leo.jpeg" class="img-thumbnail" alt="Leo">
+                            <span class="mb-2">Leo</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/ana-e-maria.jpeg" class="img-thumbnail" alt="Ana e Maria">
+                            <span class="mb-2">Princesas Ana e Maria</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/juh.jpg" class="img-thumbnail" alt="Juh">
                             <span class="mb-2">Juju Balandia</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/luiz-fernando.jpeg" class="img-thumbnail" alt="Luiz Fernando">
+                            <span class="mb-2">Luiz Fernando</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/wanderlei.jpg" class="img-thumbnail" alt="José Wanderley">
@@ -376,6 +388,30 @@
                         <div class="col-auto">
                             <img src="/img/people/tia-neida.jpg" class="img-thumbnail" alt="Tia Neida">
                             <span class="mb-2">Tia Neida</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tio-edson.jpeg" class="img-thumbnail" alt="Tio Edson">
+                            <span class="mb-2">Tio Edson</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/luidy.jpeg" class="img-thumbnail" alt="Luidy">
+                            <span class="mb-2">Luidy</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tia-rute.jpeg" class="img-thumbnail" alt="Tia Rute">
+                            <span class="mb-2">Tia Rute</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/charlene.jpg" class="img-thumbnail" alt="Charlene">
+                            <span class="mb-2">Charlene</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/sophia.jpg" class="img-thumbnail" alt="Sophia">
+                            <span class="mb-2">Princesa Sophia</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/rodrigao.jpg" class="img-thumbnail" alt="Rodrigão">
+                            <span class="mb-2">Rodrigão</span>
                         </div>
                     </div>
                 </div>
