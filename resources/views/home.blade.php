@@ -330,7 +330,7 @@
                             <span class="mb-2">Hermano Pasquim</span>
                         </div>
                         <div class="col-auto">
-                            <img src="/img/people/tio-theddy.jpeg" class="img-thumbnail" alt="Tio Theddy">
+                            <img src="/img/people/tio-theddy.jpg" class="img-thumbnail" alt="Tio Theddy">
                             <span class="mb-2">Tio Theddy Carrey</span>
                         </div>
                         <div class="col-auto">
