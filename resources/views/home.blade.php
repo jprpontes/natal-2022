@@ -394,7 +394,7 @@
                             <span class="mb-2">Ana Paula</span>
                         </div>
                         <div class="col-auto">
-                            <img src="/img/people/lucinho.jpg" class="img-thumbnail" alt="Lucinho">
+                            <img src="/img/people/lucinho-avinte.jpg" class="img-thumbnail" alt="Lucinho">
                             <span class="mb-2">Lucinho</span>
                         </div>
                         <div class="col-auto">
