@@ -449,6 +449,14 @@
                             <img src="/img/people/charles.jpeg" class="img-thumbnail" alt="Charles">
                             <span class="mb-2">Chaos Xavier</span>
                         </div>
+                        <div class="col-auto">
+                            <img src="/img/people/taty.png" class="img-thumbnail" alt="Taty">
+                            <span class="mb-2">Taty</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/waldson.jpeg" class="img-thumbnail" alt="Waldson">
+                            <span class="mb-2">Waldson</span>
+                        </div>
                     </div>
                 </div>
             </div>
