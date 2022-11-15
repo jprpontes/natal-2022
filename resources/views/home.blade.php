@@ -306,8 +306,16 @@
                             <span class="mb-2">Vó Ana</span>
                         </div>
                         <div class="col-auto">
-                            <img src="/img/people/tio-erivelto-familia.jpg" class="img-thumbnail" alt="Tio Erivelto, tia Suely e família">
-                            <span class="mb-2">Tio Erivelto, tia Suely e família</span>
+                            <img src="/img/people/suely.jpeg" class="img-thumbnail" alt="Tia Suely">
+                            <span class="mb-2">Tia Suely</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tio-erivelto.jpeg" class="img-thumbnail" alt="Tio Erivelto">
+                            <span class="mb-2">Tio Erivelto Bilzerian</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/rafael-miguel-helena.jpeg" class="img-thumbnail" alt="Rafael, Miguel e princesa Helena">
+                            <span class="mb-2">Rafael, Miguel e princesa Helena</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/tia-de-lourdes.jpg" class="img-thumbnail" alt="Tia De Lourdes">
@@ -318,16 +326,16 @@
                             <span class="mb-2">Tio Geraldo</span>
                         </div>
                         <div class="col-auto">
-                            <img src="/img/people/hermano.jpg" class="img-thumbnail" alt="Hermano">
-                            <span class="mb-2">Hermano</span>
+                            <img src="/img/people/hermano.png" class="img-thumbnail" alt="Hermano">
+                            <span class="mb-2">Hermano Pasquim</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/tio-theddy.jpeg" class="img-thumbnail" alt="Tio Theddy">
-                            <span class="mb-2">Tio Theddy</span>
+                            <span class="mb-2">Tio Theddy Carrey</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/rany.jpg" class="img-thumbnail" alt="Rany">
-                            <span class="mb-2">Rany Migão</span>
+                            <span class="mb-2">Rany Migão Bolseiro</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/amanda.jpg" class="img-thumbnail" alt="Amanda">
@@ -335,15 +343,23 @@
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/joao.jpg" class="img-thumbnail" alt="João">
-                            <span class="mb-2">João</span>
+                            <span class="mb-2">João Pernambucano</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tio-geraldo-assis.png" class="img-thumbnail" alt="Tio Geraldo">
+                            <span class="mb-2">Tio Geraldo</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tia-dirce.png" class="img-thumbnail" alt="Tia Dirce">
+                            <span class="mb-2">Tia Dirce</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/marcos.jpg" class="img-thumbnail" alt="Marcolino">
+                            <span class="mb-2">Marcolino Adnet</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/rayza.jpg" class="img-thumbnail" alt="Rayza">
                             <span class="mb-2">Rayza</span>
-                        </div>
-                        <div class="col-auto">
-                            <img src="/img/people/marcos.jpg" class="img-thumbnail" alt="Marcolino">
-                            <span class="mb-2">Marcolino</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/polly.jpeg" class="img-thumbnail" alt="Polly">
@@ -351,7 +367,7 @@
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/leo.jpeg" class="img-thumbnail" alt="Leo">
-                            <span class="mb-2">Leo</span>
+                            <span class="mb-2">Leo Pigossi</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/ana-e-maria.jpeg" class="img-thumbnail" alt="Ana e Maria">
@@ -363,11 +379,11 @@
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/luiz-fernando.jpeg" class="img-thumbnail" alt="Luiz Fernando">
-                            <span class="mb-2">Luiz Fernando</span>
+                            <span class="mb-2">Luiz Fernando Lima</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/wanderlei.jpg" class="img-thumbnail" alt="José Wanderley">
-                            <span class="mb-2">José Wanderlei</span>
+                            <span class="mb-2">José Wanderlei Travolta</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/marilene.jpg" class="img-thumbnail" alt="José Wanderley">
@@ -383,19 +399,31 @@
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/tio-lucio.jpg" class="img-thumbnail" alt="Tio Lúcio">
-                            <span class="mb-2">Tio Lúcio</span>
+                            <span class="mb-2">Tio Lúcio Shelby</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/tia-neida.jpg" class="img-thumbnail" alt="Tia Neida">
                             <span class="mb-2">Tia Neida</span>
                         </div>
                         <div class="col-auto">
+                            <img src="/img/people/neury.jpeg" class="img-thumbnail" alt="Neury">
+                            <span class="mb-2">Neury</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/jose-luiz.jpeg" class="img-thumbnail" alt="José Luiz">
+                            <span class="mb-2">José Luiz</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/caio-e-sabrina.jpeg" class="img-thumbnail" alt="Caio e Sabrina">
+                            <span class="mb-2">Caio e Sabrina</span>
+                        </div>
+                        <div class="col-auto">
                             <img src="/img/people/tio-edson.jpeg" class="img-thumbnail" alt="Tio Edson">
-                            <span class="mb-2">Tio Edson</span>
+                            <span class="mb-2">Tio Edson Lillard</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/luidy.jpeg" class="img-thumbnail" alt="Luidy">
-                            <span class="mb-2">Luidy</span>
+                            <span class="mb-2">Luidy Bros</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/tia-rute.jpeg" class="img-thumbnail" alt="Tia Rute">
