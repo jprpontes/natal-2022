@@ -418,6 +418,10 @@
                             <span class="mb-2">Caio e Sabrina</span>
                         </div>
                         <div class="col-auto">
+                            <img src="/img/people/carine.jpeg" class="img-thumbnail" alt="Carine">
+                            <span class="mb-2">Carine</span>
+                        </div>
+                        <div class="col-auto">
                             <img src="/img/people/tio-edson.jpeg" class="img-thumbnail" alt="Tio Edson">
                             <span class="mb-2">Tio Edson Lillard</span>
                         </div>
