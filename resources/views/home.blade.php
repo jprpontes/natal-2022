@@ -446,8 +446,8 @@
                             <span class="mb-2">Rodrigão</span>
                         </div>
                         <div class="col-auto">
-                            <img src="/img/people/charles.jpeg" class="img-thumbnail" alt="Charles">
-                            <span class="mb-2">Chaos Xavier</span>
+                            <img src="/img/people/chaos-e-mari.jpeg" class="img-thumbnail" alt="Charles e Mari">
+                            <span class="mb-2">Chaos Xavier e Mari</span>
                         </div>
                         <div class="col-auto">
                             <img src="/img/people/taty.png" class="img-thumbnail" alt="Taty">
