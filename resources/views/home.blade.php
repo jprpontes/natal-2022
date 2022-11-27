@@ -461,6 +461,22 @@
                             <img src="/img/people/waldson.jpeg" class="img-thumbnail" alt="Waldson">
                             <span class="mb-2">Waldson</span>
                         </div>
+                        <div class="col-auto">
+                            <img src="/img/people/thais.jpeg" class="img-thumbnail" alt="Thais">
+                            <span class="mb-2">Tatá</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/elisandro.jpg" class="img-thumbnail" alt="Elisandro">
+                            <span class="mb-2">Elisandro da Swat</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/alice.png" class="img-thumbnail" alt="Alice">
+                            <span class="mb-2">Princesa Alice</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/davi.png" class="img-thumbnail" alt="Davi">
+                            <span class="mb-2">Davi</span>
+                        </div>
                     </div>
                 </div>
             </div>
