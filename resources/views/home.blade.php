@@ -354,6 +354,10 @@
                             <span class="mb-2">Tia Dirce</span>
                         </div>
                         <div class="col-auto">
+                            <img src="/img/people/marcia-maria.jpeg" class="img-thumbnail" alt="Márcia Maria">
+                            <span class="mb-2">Márcia Maria</span>
+                        </div>
+                        <div class="col-auto">
                             <img src="/img/people/marcos.jpg" class="img-thumbnail" alt="Marcolino">
                             <span class="mb-2">Marcolino Adnet</span>
                         </div>
