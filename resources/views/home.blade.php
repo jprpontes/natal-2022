@@ -477,6 +477,10 @@
                             <img src="/img/people/davi.png" class="img-thumbnail" alt="Davi">
                             <span class="mb-2">Davi</span>
                         </div>
+                        <div class="col-auto">
+                            <img src="/img/people/patricia.jpeg" class="img-thumbnail" alt="Patrícia">
+                            <span class="mb-2">Patty</span>
+                        </div>
                     </div>
                 </div>
             </div>
