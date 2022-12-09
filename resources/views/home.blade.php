@@ -513,6 +513,10 @@
                             <img src="/img/people/patricia.jpeg" class="img-thumbnail" alt="Patrícia">
                             <span class="mb-2">Patty</span>
                         </div>
+                        <div class="col-auto">
+                            <img src="/img/people/tia-maria.jpeg" class="img-thumbnail" alt="Tia Maria">
+                            <span class="mb-2">Tia Maria</span>
+                        </div>
                     </div>
                 </div>
             </div>
