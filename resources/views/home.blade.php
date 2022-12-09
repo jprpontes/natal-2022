@@ -24,27 +24,44 @@
         <style>
             body {
                 font-family: 'Nunito', sans-serif;
+                background-color: #F2F2F2;
             }
 
             .j-header {
-                background-color: #e01932;
                 height: 18rem;
                 display: flex;
                 flex-direction: column;
+                background-image: url(img/estrelas.png);
+            }
+
+            .j-header-img-detail-left, .j-header-img-detail-right {
+                height: 15%;
+                position: absolute;
+                top: 0;
+            }
+
+            .j-header-img-detail-left {
+                transform: scaleX(-1);
+            }
+
+            .j-header-img-detail-right {
+                right: 0;
             }
 
             .j-title {
                 font-family: 'Mountains of Christmas', cursive;
-                color: #FFF;
+                color: #9F2E32;
                 margin: auto;
-                /* margin: 3rem auto 1rem auto; */
                 font-size: 5rem;
                 text-align: center;
             }
 
+            .j-title > small > span {
+                color: #674845;
+            }
+
             .j-timer-section {
-                background-color: #9dd07f;
-                color: #454545;
+                background-color: #9F2E32;
                 width: 100%;
                 display: flex;
                 flex-direction: row;
@@ -57,12 +74,14 @@
             .j-timer-value {
                 font-size: 3rem;
                 text-align: center;
+                color: #F2F2F2;
             }
 
             .j-timer-text {
                 font-size: 1.5rem;
                 text-align: center;
                 margin-right: 12px;
+                color: #F2F2F2;
             }
 
             .j-timer-label {
@@ -70,12 +89,10 @@
             }
 
             .j-message-section {
-                background-color: #87abfa;
+
             }
 
             .j-message {
-                background-color: #e01932;
-                color: #FFF;
                 display: flex;
                 flex-direction: column;
                 padding: 3rem;
@@ -92,20 +109,27 @@
                 font-weight: 700;
                 font-size: 1.5rem;
                 margin-bottom: 0.7rem;
+                color: #9F2E32;
             }
 
             .j-message-text {
                 font-size: 1.3rem;
+                color: #674845;
             }
 
             .j-message-image {
                 height: 100%;
+                text-align: center;
                 margin: 0;
-                padding: 0;
+                padding: 20px 10px 10px 10px;
             }
 
             .j-message-image img {
-                height: 100%;
+                width: 55%;
+            }
+
+            .j-body-subtitles {
+                color: #674845;
             }
 
             .j-plans-section {
@@ -181,7 +205,13 @@
                 }
 
                 .j-message-image img {
-                    height: auto;
+                    width: auto;
+                }
+            }
+
+            @media screen and (max-width: 600px) {
+                .j-header-img-detail-left, .j-header-img-detail-right {
+                    display: none;
                 }
             }
         </style>
@@ -189,10 +219,12 @@
     <body>
         <div>
             <div class="j-header">
+                <img src="/img/folhas.png" class="j-header-img-detail-left" alt="Folhas Detalhe">
+                <img src="/img/folhas.png" class="j-header-img-detail-right" alt="Folhas Detalhe">
                 <span class="j-title">
                     Natal em Família 2022
                     <br>
-                    <small>Dias 23, 24, 25</small>
+                    <small><span>Dias</span> 23<span>, </span>24<span>, </span>25</small>
                 </span>
             </div>
             <div class="j-timer-section container-fluid">
@@ -229,7 +261,7 @@
                         </div>
                     </div>
                     <div class="j-message-image col-12 col-md">
-                        <img src="/img/boneco.jpg" class="img-fluid" alt="Boneco de Neve">
+                        <img src="/img/presepio.png" class="img-fluid" alt="Presepio">
                     </div>
                 </div>
             </div>
@@ -237,7 +269,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col text-center">
-                            <h3 class="mt-5 mb-3">Localização da festa</h3>
+                            <h3 class="mt-5 mb-3 j-body-subtitles">Localização da festa</h3>
                         </div>
                     </div>
                     <div class="j-location">
@@ -257,7 +289,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col text-center">
-                            <h3 class="mt-5 mb-3">Garanta sua vaga</h3>
+                            <h3 class="mt-5 mb-3 j-body-subtitles">Garanta sua vaga</h3>
                         </div>
                     </div>
                     <div class="j-plan-cards container">
@@ -297,7 +329,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col text-center">
-                            <h3 class="mt-5 mb-3">Presenças confirmadas</h3>
+                            <h3 class="mt-5 mb-3 j-body-subtitles">Presenças confirmadas</h3>
                         </div>
                     </div>
                     <div class="j-people-cards row">
