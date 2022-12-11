@@ -35,7 +35,7 @@
             }
 
             .j-header-img-detail-left, .j-header-img-detail-right {
-                height: 15%;
+                height: 20%;
                 position: absolute;
                 top: 0;
             }
@@ -207,11 +207,14 @@
                 .j-message-image img {
                     width: auto;
                 }
+                .j-header-img-detail-left, .j-header-img-detail-right {
+                    height: 15%;
+                }
             }
 
             @media screen and (max-width: 600px) {
                 .j-header-img-detail-left, .j-header-img-detail-right {
-                    display: none;
+                    height: 5.5%;
                 }
             }
         </style>
@@ -516,6 +519,22 @@
                         <div class="col-auto">
                             <img src="/img/people/tia-maria.jpeg" class="img-thumbnail" alt="Tia Maria">
                             <span class="mb-2">Tia Maria</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/dudu.jpeg" class="img-thumbnail" alt="Dudu">
+                            <span class="mb-2">Dudu Albuquerque</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/necko.webp" class="img-thumbnail" alt="Necko">
+                            <span class="mb-2">Necko Cruise</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/cecilia.jpeg" class="img-thumbnail" alt="Cecília">
+                            <span class="mb-2">Princesa Cecília</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/pedro.png" class="img-thumbnail" alt="Pedro">
+                            <span class="mb-2">Pedro</span>
                         </div>
                     </div>
                 </div>
