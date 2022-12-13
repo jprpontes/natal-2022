@@ -525,6 +525,14 @@
                             <span class="mb-2">Dudu Albuquerque</span>
                         </div>
                         <div class="col-auto">
+                            <img src="/img/people/mario-winder.png" class="img-thumbnail" alt="Mario Winder">
+                            <span class="mb-2">Mario Winder Bros</span>
+                        </div>
+                        <div class="col-auto">
+                            <img src="/img/people/mayane.jpeg" class="img-thumbnail" alt="Mayane">
+                            <span class="mb-2">Mayane</span>
+                        </div>
+                        <div class="col-auto">
                             <img src="/img/people/necko.webp" class="img-thumbnail" alt="Necko">
                             <span class="mb-2">Necko Cruise</span>
                         </div>
